@@ -10,7 +10,7 @@
 	</properties>
 	
 	<build>
-		<finalName>vinod</finalName>
+		<finalName>Hello_vinod</finalName>
 		<plugins>
 			<plugin>
 				<!-- Build an executable JAR test ABC-->
